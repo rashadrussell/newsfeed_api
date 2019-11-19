@@ -72,5 +72,4 @@ module.exports = {
     sort,
     filter,
     paginate
-
 };
